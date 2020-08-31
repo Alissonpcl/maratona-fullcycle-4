@@ -34,3 +34,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 maratona-projeto/
+maratona-projeto-ci/
