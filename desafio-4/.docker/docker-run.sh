@@ -1,2 +1,2 @@
 #Executar a partir da pasta anterior a esta
-docker build -t allim-nest .
+docker run -it --rm -p 3000:3000 desafio-4

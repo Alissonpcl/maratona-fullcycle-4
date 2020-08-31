@@ -1,2 +1,2 @@
 #Executar a partir da pasta anterior a esta
-docker build -t allim-nest .
+docker build -t desafio-4 .

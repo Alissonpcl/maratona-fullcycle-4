@@ -1,4 +1,4 @@
-# Maratona Full Cycle Desafio3
+# Maratona Full Cycle Desafio 1
 
 Projeto desenvolvido durante a [Maratona Full Cycle 4.0](http://maratona.fullcycle.com.br/)
 
@@ -23,3 +23,19 @@ GET http://localhost:8080
 Rodar o container para expor a aplicação:
 
 ```docker run -p 8080:8080 --rm desafio-1```
+
+## Informações do desafio
+> Extraído da plataforma de treinamento
+
+Informações do desafio
+Durante toda a Maratona utilizaremos containers como base de desenvolvimento bem como para produção. Logo, ter uma noção básica de Docker é mais do que necessário.
+
+Nesse desafio, você terá de criar uma imagem docker que quando executada deverá expor a porta 8080 exibindo a mensagem: Eu sou Full Cycle.
+Fique na liberdade para utilizar a tecnologia/linguagem de programação de sua escolha. Exemplo: você poderá criar uma simples aplicação usando Node.js com Express para exibir essa mensagem.
+Gere o build da sua imagem, faça o push para o DockerHub e a informe no formulário abaixo.
+
+Se você nunca teve nenhuma experiência com docker, recomendamos que assista a seguinte aula: https://www.youtube.com/watch?v=yb2udL9GG2U
+
+## Referência 
+ 
+[Maratona Fullcycle](http://maratona.fullcycle.com.br)
